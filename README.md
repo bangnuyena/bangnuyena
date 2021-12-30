@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bangnuyena
+- 👋 Hi, I’m @bangnguyen
 - 👀 I’m interested in reading and coding
-- 🌱 I’m currently learning languages
+- 🌱 I’m currently learning languages department
 - 💞️ I’m looking to collaborate on ...updating
 - 📫 How to reach me ...updating
 
